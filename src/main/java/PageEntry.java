@@ -14,7 +14,6 @@ public class PageEntry implements Comparable<PageEntry> {
     @Override
     public int compareTo(PageEntry o) {
 
-        //описать сравнение
         return 0;
     }
 }
